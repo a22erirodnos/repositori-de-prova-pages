@@ -1,5 +1,6 @@
 ---
-title: Resum
+layout: page
+title: resum
 ---
 
 # Documentació bàsica del projecte

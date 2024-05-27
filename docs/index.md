@@ -10,3 +10,4 @@ Aquí encontrarás toda la información necesaria para usar y contribuir a este 
 
 - [Introducción](getting-started.md)
 - [Uso](usage.md)
+- [Resum](README.md)

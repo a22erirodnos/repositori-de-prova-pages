@@ -1,3 +1,7 @@
+---
+title: Resum
+---
+
 # Documentació bàsica del projecte
 Alguns dels punts que han de quedar explicats:
  * Objectius
